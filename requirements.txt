@@ -3,7 +3,7 @@ djangorestframework==3.14.0
 django-cors-headers==4.3.1
 psycopg2-binary==2.9.9
 python-decouple==3.8
-PyJWT==2.10.1
+PyJWT==2.9.0
 requests==2.31.0
 celery==5.3.4
 redis==5.0.1
@@ -17,3 +17,4 @@ django-filter==23.4
 django-extensions==3.2.3
 gunicorn==21.2.0
 whitenoise==6.6.0
+djangorestframework-simplejwt
